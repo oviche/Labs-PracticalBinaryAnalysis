@@ -9,7 +9,7 @@ printf("\n::: SECTION_INFO :::\nBinary_loaded: %s      SECTION_TYPE : %s       S
 printf("\n::: %s SECTION :::\n\n",sec->name.c_str());
 
 printf("%016x: ",sec->vma);
-for(int i=1;i<=sec->size;i++){printf("%02x",sec->bytes[i-1]);if(i%16==0){printf("\n%016x: ",sec->vma+i);}else if(i%4==0){printf("  ");}} 
+for(int i=1;i<=sec->size;i++){printf("%02x",sec->bytes[i-1]);if(i%16==0&&i!=sec->size){printf("\n%016x: ",sec->vma+i);}else if(i%4==0&&i!=sec->size){printf("  ");}} 
 printf("\n");
 
                                 }
