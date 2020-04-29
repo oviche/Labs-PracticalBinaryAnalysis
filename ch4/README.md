@@ -75,6 +75,7 @@ binary=> '/bin/ls' | format: elf64-x86-64 | architecture: i386:x86-64 | (64 bits
    22: .data                                                                            0000000000023000   SEC_TYPE_DATA   616
    23: .bss                                                                             0000000000023280   SEC_TYPE_DATA   4824
    24: .comment                                                                         0000000000000000   SEC_TYPE_DATA   76
+'''
 
 ```
 
