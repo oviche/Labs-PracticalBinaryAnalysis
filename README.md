@@ -1,2 +1,2 @@
 # Labs-PracticalBinaryAnalysis
-solution of exercises of Practical Binary Analysis book
+solutions of exercises of Practical Binary Analysis book
