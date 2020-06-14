@@ -7,8 +7,7 @@ Repo contain solutions of exercises of Practical Binary Analysis book
 
 | Labs            | Status                                      |
 |-----------------|-----------------------------------------------
-| Chapter 4         |  <ul><li>- [X] Completed </li></ul> |  
-| Chapter 5     |  <ul><li>- [ ] Not completed yet </li> <ul>                                             |        
+| Chapter 4         |  <ul><li>- [X] Completed </li></ul> |                                               |        
 | Chapter 6        | <ul><li>- [ ] Not completed yet </li> <ul>                                              |       
 | Chapter 7 |<ul><li>- [ ] Not completed yet </li> <ul>|        
 | Chapter 8 |    <ul><li>- [ ] Not completed yet</li> <ul>  |                            
