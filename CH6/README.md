@@ -1,7 +1,7 @@
 # CHAPTER.6
 
 ### confuse Objdump 
-- compile code using following command & check main function of **.text** seciton in objdump. 
+- compile code using following command. Then, check obfuscated code in main function of **.text** secton in **objdump**. 
 
   ```
   gcc -masm=intel confObjdmp.c -o program
