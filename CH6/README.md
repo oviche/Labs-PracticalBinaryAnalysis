@@ -1,6 +1,6 @@
 # CHAPTER.6
 
-### confuse Objdump 
+### Confusing Objdump 
 - compile code using following command. Then, check obfuscated code in main function of **.text** secton in **objdump**. 
 
   ```
